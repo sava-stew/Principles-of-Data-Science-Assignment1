@@ -1,0 +1,2 @@
+Average grip strength among participants with frailty: 23.5 
+Average grip strength among participants without frailty: 29.4 
