@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('https://raw.githubusercontent.com/sava-stew/Principles-of-Data-Science-Assignment1/refs/heads/main/Frailty.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/sava-stew/Principles-of-Data-Science-Assignment1/refs/heads/main/frailty/data_raw/Frailty.csv')
 
 clean_data = df.copy()
 
